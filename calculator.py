@@ -15,3 +15,8 @@ sacrifice_hit = 113
 stolen_bases = 123
 caught_stealing = 117
 
+hits = singles + doubles + triples + homeruns
+batting_average = hits / at_bats
+
+print(hits)
+print(batting_average)
